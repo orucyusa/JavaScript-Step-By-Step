@@ -8,7 +8,7 @@ console.log(name);
 let name="Yüşa Oruç";
 let name = "Yüşa"; // tanımlanmışı tekrar tanımlanamaz!
 
-let a,b
+//let a,b
 a=10; b=20;
 console.log(a+b); //=30;
 
@@ -19,8 +19,8 @@ console.log(name);
 
 name = "Oruç" //TypeError verir tekrar tanımlanamaz, degistirilemez.
 
-const a; //hata verir SyntaxError cunku const veriTiplerinde degeri de vermemiz gerekir.
-a=10; 
+//const a; //hata verir SyntaxError cunku const veriTiplerinde degeri de vermemiz gerekir.
+//a=10; 
 console.log(a);
 
 // sorulan soru mülakatlarda!
