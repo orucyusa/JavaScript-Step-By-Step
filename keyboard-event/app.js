@@ -38,3 +38,5 @@ function changeText(e){
 
 //mouse out 
 //title.addEvnetListener ("mouseout",run); ustunden cikar.
+
+
