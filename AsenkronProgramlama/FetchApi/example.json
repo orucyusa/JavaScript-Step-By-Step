@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Yüşa",
+        "age":25,
+        "salaray":4000
+    },
+    {
+        "name":"Ahmet",
+        "age":14,
+        "salaray":3434
+    },
+    {
+        "name":"Mehmet",
+        "age":12,
+        "salaray":2323
+    },
+    {
+        "name":"Ayşe",
+        "age":26,
+        "salaray":1231
+    }
+]
